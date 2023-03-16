@@ -27,7 +27,7 @@ Engineering, JBNU...
 
 - 📫 How to reach me **Cmobeenrahman@jbnu.ac.kr** , **Cmobeenrahman@gmail.ac.kr**
 
-<img align="right" alt="Coding" width="450" src="https://scitechdaily.com/images/DNA-Technology-Concept.gif">
+<img align="right" alt="Coding" width="400" src="https://scitechdaily.com/images/DNA-Technology-Concept.gif">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rehman1995)](https://github.com/anuraghazra/github-readme-stats)
 
